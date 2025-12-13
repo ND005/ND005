@@ -7,5 +7,4 @@
 > ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 > ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 > ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ND005&show_icons=true&theme=dark)
-> ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ND005)
 > ---
