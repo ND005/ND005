@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DINESH_NIMMALA&show_icons=true&theme=dark" alt="Dinesh Nimmala's GitHub Stats" />
+  >![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 </p>
 
 ---
