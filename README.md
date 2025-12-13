@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Dinesh Nimmala!
 
+> "Code is like humor. When you have to explain it, it’s bad."
+> ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ND005&show_icons=true&theme=dark)
+> ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ND005)
+> ---
 <!--
 **ND005/ND005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
