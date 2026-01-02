@@ -10,8 +10,8 @@
 
 ---
 
-><p align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ND005&show_icons=true&label=Projects&hide=stars,contribs&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ND005&layout=compact&theme=dark" />
 </p>
 
 ---
