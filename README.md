@@ -8,8 +8,9 @@
   ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-E84C3D?style=flat-square&logo=apache&logoColor=white)
 </p>
 
+### 📈 Streak Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ND005&show_icons=true&theme=tokyonight" alt="ND005 Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ND005&theme=tokyonight" alt="ND005 Streak" />
 </p>
 
 ### Languages & Database
