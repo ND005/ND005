@@ -7,6 +7,10 @@
   ![Appium](https://img.shields.io/badge/-Appium-D0021B?style=flat-square&logo=appium&logoColor=white)
   ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-E84C3D?style=flat-square&logo=apache&logoColor=white)
 </p>
+### 💼 Work Experience
+* ** SDET - II - Verizon ** <img src="https://www.vectorlogo.zone/logos/verizon/verizon-icon.svg" alt="verizon" width="20" height="20" valign="middle"/> 
+  *(October 2023 – Present)*
+  > Designed, implemented & executed comprehensive automation suites for front-end and back-end quality engineering activities, including unit, integration, system and regression testing using Selenium, Playwright, Appium, Rest Assured tools and packages with frameworks like Cucumber BDD and TestNG.
 
 ### 🎓 Certifications
 * **ISTQB Certified Tester** ![ISTQB](https://img.shields.io/badge/Certification-ISTQB-blue?style=flat-square&logo=gitbook&logoColor=white)
